@@ -22,7 +22,7 @@
   - **Mot de passe** : `admin123`
 
 ## Import SQL :
-- Utilisez le fichier `compagnie_dump.sql` fourni pour initialiser la base de données :
+- Utilisez le fichier `compagnie.sql` fourni pour initialiser la base de données :
   ```bash
   mysql -u root -p compagnie < compagnie.sql
 

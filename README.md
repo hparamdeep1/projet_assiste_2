@@ -24,4 +24,5 @@
 ## Import SQL :
 - Utilisez le fichier `compagnie_dump.sql` fourni pour initialiser la base de données :
   ```bash
-  mysql -u root -p compagnie < compagnie_dump.sql_
+  mysql -u root -p compagnie < compagnie.sql
+

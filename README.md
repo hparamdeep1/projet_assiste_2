@@ -1,4 +1,4 @@
-# Projet Compagnie Aérienne (Spring Boot)
+# Projet Compagnie Aérienne (Spring Boot) par FERREIRA et HARDEEP SINGH 
 
 ## Fonctionnalités :
 - REST API pour gérer :

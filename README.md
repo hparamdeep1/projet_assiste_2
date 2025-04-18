@@ -8,7 +8,7 @@
 - Intégration base de données MySQL (`root` / `admin123`)
 - Lecture / écriture de fichiers CSV
 - Page HTML d’accueil avec liste des vols
-- Tests unitaires avec JUnit (en cours)
+- Tests unitaires avec JUnit 
 
 ## Lancement :
 1. Ouvrir le projet dans IntelliJ
